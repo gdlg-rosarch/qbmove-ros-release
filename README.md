@@ -10,7 +10,7 @@ These packages were released:
 
 Version of package(s) in repository `qb_move`:
 
-- upstream repository: ssh://git@bitbucket.org/qbrobotics/qbmove-ros.git
+- upstream repository: https://bitbucket.org/qbrobotics/qbmove-ros.git
 - release repository: unknown
 - rosdistro version: `null`
 - old version: `null`
