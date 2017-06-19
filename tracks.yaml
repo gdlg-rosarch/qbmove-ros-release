@@ -21,5 +21,5 @@ tracks:
     release_tag: :{version}
     ros_distro: kinetic
     vcs_type: git
-    vcs_uri: ssh://git@bitbucket.org/qbrobotics/qbmove-ros.git
+    vcs_uri: https://bitbucket.org/qbrobotics/qbmove-ros.git
     version: :{auto}
