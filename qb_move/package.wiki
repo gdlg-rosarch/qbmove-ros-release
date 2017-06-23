@@ -1,3 +1,0 @@
-<<PackageHeader(qb_move)>>
-
-## CategoryPackage
