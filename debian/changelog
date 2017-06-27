@@ -1,0 +1,31 @@
+ros-kinetic-qb-move (1.0.5-0jessie) jessie; urgency=high
+
+
+
+ -- Alessandro Tondo <alessandro.tondo@qbrobotics.com>  Mon, 26 Jun 2017 22:00:00 -0000
+
+ros-kinetic-qb-move (1.0.4-0jessie) jessie; urgency=high
+
+
+
+ -- Alessandro Tondo <alessandro.tondo@qbrobotics.com>  Thu, 22 Jun 2017 22:00:00 -0000
+
+ros-kinetic-qb-move (1.0.3-0jessie) jessie; urgency=high
+
+
+
+ -- Alessandro Tondo <alessandro.tondo@qbrobotics.com>  Wed, 21 Jun 2017 22:00:00 -0000
+
+ros-kinetic-qb-move (1.0.2-0jessie) jessie; urgency=high
+
+
+
+ -- Alessandro Tondo <alessandro.tondo@qbrobotics.com>  Tue, 20 Jun 2017 22:00:00 -0000
+
+ros-kinetic-qb-move (1.0.1-0jessie) jessie; urgency=high
+
+  * first public release for Kinetic
+
+ -- Alessandro Tondo <alessandro.tondo@qbrobotics.com>  Sun, 18 Jun 2017 22:00:00 -0000
+
+

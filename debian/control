@@ -1,0 +1,12 @@
+Source: ros-kinetic-qb-move
+Section: misc
+Priority: extra
+Maintainer: Alessandro Tondo <alessandro.tondo@qbrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin
+Homepage: http://wiki.ros.org/qb_move
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-qb-move
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-qb-move-control, ros-kinetic-qb-move-description, ros-kinetic-qb-move-hardware-interface
+Description: This package contains the ROS interface for qbrobotics® qbmove device.
